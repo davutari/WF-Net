@@ -1,0 +1,19 @@
+model,params_M,GFLOPs
+VGG16,134.3,30.93
+ResNet50,23.53,8.17
+InceptionV3,21.8,5.67
+Xception,20.83,9.1
+DenseNet121,6.96,5.67
+MobileNetV2,2.24,0.6
+EfficientNetB0,4.02,0.77
+InceptionResNetV2,54.32,12.93
+ViT-B/16,85.81,33.7
+Swin-T,27.53,8.98
+Ablation: CNN-only,28.49,8.94
+Ablation: Transformer-only,28.19,9.01
+Ablation: Dual (concat),56.67,17.95
+Ablation: Dual+CATF w/o attn,57.21,18.18
+Ablation: WF-Net w/ CBAM,57.35,18.18
+Ablation: WF-Net w/o self-distill,57.34,18.18
+Ablation: WF-Net-Lite,11.58,3.58
+WF-Net (Proposed),57.35,18.18

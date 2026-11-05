@@ -1,0 +1,1062 @@
+{
+ "table3": {
+  "VGG16": {
+   "accuracy": [
+    82.6,
+    4.93
+   ],
+   "precision_macro": [
+    82.61,
+    5.62
+   ],
+   "recall_macro": [
+    81.28,
+    5.62
+   ],
+   "macro_f1": [
+    81.14,
+    5.91
+   ],
+   "cohen_kappa": [
+    80.35,
+    5.58
+   ],
+   "mcc": [
+    80.52,
+    5.48
+   ],
+   "roc_auc_macro": [
+    96.7,
+    1.64
+   ]
+  },
+  "ResNet50": {
+   "accuracy": [
+    79.61,
+    4.12
+   ],
+   "precision_macro": [
+    79.6,
+    3.83
+   ],
+   "recall_macro": [
+    78.62,
+    4.25
+   ],
+   "macro_f1": [
+    78.36,
+    4.28
+   ],
+   "cohen_kappa": [
+    77.0,
+    4.65
+   ],
+   "mcc": [
+    77.18,
+    4.59
+   ],
+   "roc_auc_macro": [
+    96.5,
+    1.77
+   ]
+  },
+  "InceptionV3": {
+   "accuracy": [
+    66.88,
+    2.94
+   ],
+   "precision_macro": [
+    66.95,
+    3.0
+   ],
+   "recall_macro": [
+    65.82,
+    3.19
+   ],
+   "macro_f1": [
+    65.59,
+    3.05
+   ],
+   "cohen_kappa": [
+    62.64,
+    3.32
+   ],
+   "mcc": [
+    62.84,
+    3.29
+   ],
+   "roc_auc_macro": [
+    91.09,
+    1.41
+   ]
+  },
+  "Xception": {
+   "accuracy": [
+    75.06,
+    2.54
+   ],
+   "precision_macro": [
+    75.0,
+    2.61
+   ],
+   "recall_macro": [
+    74.07,
+    2.53
+   ],
+   "macro_f1": [
+    73.86,
+    2.52
+   ],
+   "cohen_kappa": [
+    71.88,
+    2.86
+   ],
+   "mcc": [
+    72.05,
+    2.83
+   ],
+   "roc_auc_macro": [
+    95.76,
+    1.95
+   ]
+  },
+  "DenseNet121": {
+   "accuracy": [
+    79.48,
+    2.96
+   ],
+   "precision_macro": [
+    79.77,
+    4.3
+   ],
+   "recall_macro": [
+    78.25,
+    3.9
+   ],
+   "macro_f1": [
+    77.82,
+    3.82
+   ],
+   "cohen_kappa": [
+    76.84,
+    3.37
+   ],
+   "mcc": [
+    77.13,
+    3.32
+   ],
+   "roc_auc_macro": [
+    96.75,
+    1.29
+   ]
+  },
+  "MobileNetV2": {
+   "accuracy": [
+    62.73,
+    2.7
+   ],
+   "precision_macro": [
+    63.27,
+    3.94
+   ],
+   "recall_macro": [
+    62.33,
+    2.7
+   ],
+   "macro_f1": [
+    61.31,
+    2.72
+   ],
+   "cohen_kappa": [
+    58.02,
+    3.01
+   ],
+   "mcc": [
+    58.32,
+    3.06
+   ],
+   "roc_auc_macro": [
+    90.79,
+    1.12
+   ]
+  },
+  "EfficientNetB0": {
+   "accuracy": [
+    64.03,
+    4.42
+   ],
+   "precision_macro": [
+    63.5,
+    4.44
+   ],
+   "recall_macro": [
+    62.99,
+    4.36
+   ],
+   "macro_f1": [
+    62.46,
+    4.23
+   ],
+   "cohen_kappa": [
+    59.4,
+    4.98
+   ],
+   "mcc": [
+    59.59,
+    5.01
+   ],
+   "roc_auc_macro": [
+    90.95,
+    2.31
+   ]
+  },
+  "InceptionResNetV2": {
+   "accuracy": [
+    70.26,
+    3.99
+   ],
+   "precision_macro": [
+    75.51,
+    3.95
+   ],
+   "recall_macro": [
+    69.39,
+    4.58
+   ],
+   "macro_f1": [
+    70.0,
+    4.09
+   ],
+   "cohen_kappa": [
+    66.48,
+    4.56
+   ],
+   "mcc": [
+    67.52,
+    4.35
+   ],
+   "roc_auc_macro": [
+    86.35,
+    2.19
+   ]
+  },
+  "ViT_B_16": {
+   "accuracy": [
+    87.53,
+    1.41
+   ],
+   "precision_macro": [
+    87.47,
+    1.8
+   ],
+   "recall_macro": [
+    86.46,
+    2.21
+   ],
+   "macro_f1": [
+    86.35,
+    2.08
+   ],
+   "cohen_kappa": [
+    85.93,
+    1.59
+   ],
+   "mcc": [
+    86.02,
+    1.56
+   ],
+   "roc_auc_macro": [
+    98.5,
+    0.41
+   ]
+  },
+  "Swin_T": {
+   "accuracy": [
+    85.84,
+    4.14
+   ],
+   "precision_macro": [
+    85.62,
+    4.08
+   ],
+   "recall_macro": [
+    85.04,
+    4.52
+   ],
+   "macro_f1": [
+    84.83,
+    4.58
+   ],
+   "cohen_kappa": [
+    84.03,
+    4.66
+   ],
+   "mcc": [
+    84.15,
+    4.58
+   ],
+   "roc_auc_macro": [
+    98.1,
+    0.92
+   ]
+  },
+  "WF_Net__Proposed_": {
+   "accuracy": [
+    89.35,
+    2.41
+   ],
+   "precision_macro": [
+    88.92,
+    3.1
+   ],
+   "recall_macro": [
+    88.69,
+    3.12
+   ],
+   "macro_f1": [
+    88.49,
+    3.09
+   ],
+   "cohen_kappa": [
+    87.98,
+    2.73
+   ],
+   "mcc": [
+    88.06,
+    2.73
+   ],
+   "roc_auc_macro": [
+    98.3,
+    1.22
+   ]
+  }
+ },
+ "table6": {
+  "Ablation__CNN_only": {
+   "accuracy": [
+    88.7,
+    2.13
+   ],
+   "macro_f1": [
+    87.5,
+    2.41
+   ],
+   "cohen_kappa": [
+    87.25,
+    2.41
+   ],
+   "mcc": [
+    87.34,
+    2.38
+   ],
+   "roc_auc_macro": [
+    98.72,
+    0.51
+   ]
+  },
+  "Ablation__Transformer_only": {
+   "accuracy": [
+    86.62,
+    2.93
+   ],
+   "macro_f1": [
+    85.05,
+    3.67
+   ],
+   "cohen_kappa": [
+    84.9,
+    3.32
+   ],
+   "mcc": [
+    84.99,
+    3.25
+   ],
+   "roc_auc_macro": [
+    98.12,
+    1.03
+   ]
+  },
+  "Ablation__Dual__concat_": {
+   "accuracy": [
+    89.61,
+    3.98
+   ],
+   "macro_f1": [
+    88.69,
+    4.47
+   ],
+   "cohen_kappa": [
+    88.28,
+    4.49
+   ],
+   "mcc": [
+    88.38,
+    4.48
+   ],
+   "roc_auc_macro": [
+    98.64,
+    0.86
+   ]
+  },
+  "Ablation__Dual_CATF_w_o_attn": {
+   "accuracy": [
+    89.48,
+    3.85
+   ],
+   "macro_f1": [
+    88.81,
+    4.2
+   ],
+   "cohen_kappa": [
+    88.13,
+    4.35
+   ],
+   "mcc": [
+    88.26,
+    4.31
+   ],
+   "roc_auc_macro": [
+    98.44,
+    1.47
+   ]
+  },
+  "Ablation__WF_Net_w__CBAM": {
+   "accuracy": [
+    90.26,
+    3.34
+   ],
+   "macro_f1": [
+    89.32,
+    3.71
+   ],
+   "cohen_kappa": [
+    89.01,
+    3.78
+   ],
+   "mcc": [
+    89.08,
+    3.74
+   ],
+   "roc_auc_macro": [
+    98.43,
+    1.19
+   ]
+  },
+  "Ablation__WF_Net_w_o_self_distill": {
+   "accuracy": [
+    88.83,
+    2.69
+   ],
+   "macro_f1": [
+    87.95,
+    2.97
+   ],
+   "cohen_kappa": [
+    87.4,
+    3.04
+   ],
+   "mcc": [
+    87.47,
+    3.02
+   ],
+   "roc_auc_macro": [
+    98.42,
+    1.25
+   ]
+  },
+  "Ablation__WF_Net_Lite": {
+   "accuracy": [
+    82.73,
+    4.87
+   ],
+   "macro_f1": [
+    81.53,
+    5.37
+   ],
+   "cohen_kappa": [
+    80.5,
+    5.5
+   ],
+   "mcc": [
+    80.64,
+    5.47
+   ],
+   "roc_auc_macro": [
+    96.82,
+    2.15
+   ]
+  },
+  "WF_Net__Proposed_": {
+   "accuracy": [
+    89.35,
+    2.41
+   ],
+   "macro_f1": [
+    88.49,
+    3.09
+   ],
+   "cohen_kappa": [
+    87.98,
+    2.73
+   ],
+   "mcc": [
+    88.06,
+    2.73
+   ],
+   "roc_auc_macro": [
+    98.3,
+    1.22
+   ]
+  }
+ },
+ "table7": {
+  "Swin_T": {
+   "accuracy": [
+    52.05,
+    1.07
+   ],
+   "precision_macro": [
+    49.21,
+    3.7
+   ],
+   "recall_macro": [
+    45.22,
+    2.4
+   ],
+   "macro_f1": [
+    42.91,
+    2.63
+   ],
+   "weighted_f1": [
+    49.04,
+    1.42
+   ],
+   "cohen_kappa": [
+    41.54,
+    1.25
+   ],
+   "mcc": [
+    43.55,
+    1.35
+   ]
+  },
+  "ViT_B_16": {
+   "accuracy": [
+    51.87,
+    1.4
+   ],
+   "precision_macro": [
+    51.64,
+    2.73
+   ],
+   "recall_macro": [
+    45.62,
+    1.43
+   ],
+   "macro_f1": [
+    44.12,
+    1.63
+   ],
+   "weighted_f1": [
+    49.89,
+    1.21
+   ],
+   "cohen_kappa": [
+    41.53,
+    1.38
+   ],
+   "mcc": [
+    43.26,
+    1.52
+   ]
+  },
+  "ResNet50": {
+   "accuracy": [
+    44.13,
+    1.08
+   ],
+   "precision_macro": [
+    47.7,
+    1.03
+   ],
+   "recall_macro": [
+    37.72,
+    1.66
+   ],
+   "macro_f1": [
+    34.5,
+    1.38
+   ],
+   "weighted_f1": [
+    39.49,
+    1.29
+   ],
+   "cohen_kappa": [
+    31.63,
+    1.49
+   ],
+   "mcc": [
+    34.38,
+    1.51
+   ]
+  },
+  "Xception": {
+   "accuracy": [
+    38.68,
+    1.38
+   ],
+   "precision_macro": [
+    43.11,
+    1.99
+   ],
+   "recall_macro": [
+    31.91,
+    1.37
+   ],
+   "macro_f1": [
+    29.98,
+    1.91
+   ],
+   "weighted_f1": [
+    33.84,
+    1.91
+   ],
+   "cohen_kappa": [
+    24.46,
+    1.48
+   ],
+   "mcc": [
+    27.22,
+    1.57
+   ]
+  },
+  "DenseNet121": {
+   "accuracy": [
+    34.64,
+    2.66
+   ],
+   "precision_macro": [
+    43.07,
+    1.23
+   ],
+   "recall_macro": [
+    33.05,
+    2.53
+   ],
+   "macro_f1": [
+    30.79,
+    2.37
+   ],
+   "weighted_f1": [
+    32.74,
+    2.41
+   ],
+   "cohen_kappa": [
+    21.75,
+    2.95
+   ],
+   "mcc": [
+    23.63,
+    2.68
+   ]
+  },
+  "VGG16": {
+   "accuracy": [
+    32.8,
+    0.8
+   ],
+   "precision_macro": [
+    43.75,
+    1.37
+   ],
+   "recall_macro": [
+    30.72,
+    1.05
+   ],
+   "macro_f1": [
+    29.34,
+    1.04
+   ],
+   "weighted_f1": [
+    31.95,
+    1.03
+   ],
+   "cohen_kappa": [
+    20.08,
+    0.78
+   ],
+   "mcc": [
+    21.25,
+    0.89
+   ]
+  },
+  "MobileNetV2": {
+   "accuracy": [
+    30.73,
+    4.11
+   ],
+   "precision_macro": [
+    33.41,
+    2.78
+   ],
+   "recall_macro": [
+    28.67,
+    3.87
+   ],
+   "macro_f1": [
+    27.77,
+    3.36
+   ],
+   "weighted_f1": [
+    30.7,
+    4.0
+   ],
+   "cohen_kappa": [
+    18.04,
+    4.79
+   ],
+   "mcc": [
+    18.76,
+    4.87
+   ]
+  },
+  "InceptionV3": {
+   "accuracy": [
+    30.63,
+    2.18
+   ],
+   "precision_macro": [
+    35.07,
+    2.18
+   ],
+   "recall_macro": [
+    25.8,
+    0.98
+   ],
+   "macro_f1": [
+    24.51,
+    1.46
+   ],
+   "weighted_f1": [
+    26.87,
+    0.87
+   ],
+   "cohen_kappa": [
+    14.72,
+    1.12
+   ],
+   "mcc": [
+    16.62,
+    1.92
+   ]
+  },
+  "EfficientNetB0": {
+   "accuracy": [
+    29.1,
+    2.36
+   ],
+   "precision_macro": [
+    28.99,
+    1.48
+   ],
+   "recall_macro": [
+    27.42,
+    1.32
+   ],
+   "macro_f1": [
+    27.32,
+    1.46
+   ],
+   "weighted_f1": [
+    29.9,
+    2.31
+   ],
+   "cohen_kappa": [
+    15.98,
+    2.49
+   ],
+   "mcc": [
+    16.22,
+    2.5
+   ]
+  },
+  "InceptionResNetV2": {
+   "accuracy": [
+    27.02,
+    3.8
+   ],
+   "precision_macro": [
+    43.31,
+    0.83
+   ],
+   "recall_macro": [
+    26.6,
+    1.02
+   ],
+   "macro_f1": [
+    22.44,
+    0.78
+   ],
+   "weighted_f1": [
+    23.84,
+    1.56
+   ],
+   "cohen_kappa": [
+    14.17,
+    1.21
+   ],
+   "mcc": [
+    19.63,
+    1.27
+   ]
+  },
+  "WF_Net__Proposed_": {
+   "accuracy": [
+    54.9,
+    3.15
+   ],
+   "precision_macro": [
+    52.74,
+    3.13
+   ],
+   "recall_macro": [
+    48.52,
+    3.79
+   ],
+   "macro_f1": [
+    47.34,
+    4.06
+   ],
+   "weighted_f1": [
+    53.3,
+    3.62
+   ],
+   "cohen_kappa": [
+    45.26,
+    3.98
+   ],
+   "mcc": [
+    46.64,
+    3.68
+   ]
+  },
+  "Ablation__Dual__concat_": {
+   "accuracy": [
+    54.62,
+    1.8
+   ],
+   "precision_macro": [
+    52.77,
+    2.84
+   ],
+   "recall_macro": [
+    47.7,
+    2.26
+   ],
+   "macro_f1": [
+    46.33,
+    2.48
+   ],
+   "weighted_f1": [
+    52.4,
+    2.12
+   ],
+   "cohen_kappa": [
+    44.8,
+    2.26
+   ],
+   "mcc": [
+    46.48,
+    2.08
+   ]
+  }
+ },
+ "table8": {
+  "ViT_B_16": {
+   "accuracy": [
+    98.73,
+    0.15
+   ],
+   "macro_f1": [
+    98.39,
+    0.22
+   ],
+   "minutes": 18.2
+  },
+  "Ablation__Dual__concat_": {
+   "accuracy": [
+    98.57,
+    0.05
+   ],
+   "macro_f1": [
+    98.13,
+    0.13
+   ],
+   "minutes": 21.6
+  },
+  "default40": {
+   "accuracy": [
+    98.03,
+    0.69
+   ],
+   "macro_f1": [
+    97.37,
+    1.06
+   ],
+   "minutes": 50.1
+  },
+  "eased": {
+   "accuracy": [
+    97.85,
+    0.1
+   ],
+   "macro_f1": [
+    97.07,
+    0.21
+   ],
+   "minutes": 33.3
+  },
+  "WF_Net__Proposed_": {
+   "accuracy": [
+    97.66,
+    0.51
+   ],
+   "macro_f1": [
+    96.79,
+    0.86
+   ],
+   "minutes": 22.4
+  },
+  "nomix": {
+   "accuracy": [
+    97.54,
+    0.68
+   ],
+   "macro_f1": [
+    96.63,
+    1.08
+   ],
+   "minutes": 32.4
+  },
+  "Swin_T": {
+   "accuracy": [
+    97.25,
+    0.28
+   ],
+   "macro_f1": [
+    96.23,
+    0.46
+   ],
+   "minutes": 12.2
+  },
+  "nosd": {
+   "accuracy": [
+    97.01,
+    1.45
+   ],
+   "macro_f1": [
+    95.94,
+    2.12
+   ],
+   "minutes": 27.2
+  }
+ },
+ "table5": {
+  "ViT_B_16": {
+   "d": 2.08,
+   "lo": 0.04,
+   "hi": 4.13,
+   "b": 34,
+   "c": 20,
+   "p_mcn": "0.076",
+   "p_nb": 0.417,
+   "d15": 2.53,
+   "p_bf": 0.213
+  },
+  "Swin_T": {
+   "d": 3.62,
+   "lo": 1.58,
+   "hi": 5.8,
+   "b": 43,
+   "c": 16,
+   "p_mcn": "0.001",
+   "p_nb": 0.417,
+   "d15": 3.63,
+   "p_bf": 0.114
+  },
+  "VGG16": {
+   "d": 7.21,
+   "lo": 4.47,
+   "hi": 10.04,
+   "b": 78,
+   "c": 26,
+   "p_mcn": "<0.001",
+   "p_nb": 0.15,
+   "d15": 8.73,
+   "p_bf": 0.002
+  },
+  "ResNet50": {
+   "d": 10.09,
+   "lo": 7.49,
+   "hi": 12.8,
+   "b": 92,
+   "c": 17,
+   "p_mcn": "<0.001",
+   "p_nb": 0.124
+  },
+  "DenseNet121": {
+   "d": 10.28,
+   "lo": 7.64,
+   "hi": 13.02,
+   "b": 93,
+   "c": 17,
+   "p_mcn": "<0.001",
+   "p_nb": 0.027
+  },
+  "Xception": {
+   "d": 14.55,
+   "lo": 11.7,
+   "hi": 17.6,
+   "b": 127,
+   "c": 17,
+   "p_mcn": "<0.001",
+   "p_nb": 0.012
+  },
+  "InceptionResNetV2": {
+   "d": 18.59,
+   "lo": 15.55,
+   "hi": 21.73,
+   "b": 162,
+   "c": 15,
+   "p_mcn": "<0.001",
+   "p_nb": 0.027
+  },
+  "InceptionV3": {
+   "d": 22.82,
+   "lo": 19.6,
+   "hi": 26.23,
+   "b": 188,
+   "c": 15,
+   "p_mcn": "<0.001",
+   "p_nb": 0.002
+  },
+  "EfficientNetB0": {
+   "d": 25.76,
+   "lo": 22.36,
+   "hi": 29.36,
+   "b": 212,
+   "c": 17,
+   "p_mcn": "<0.001",
+   "p_nb": 0.012
+  },
+  "MobileNetV2": {
+   "d": 26.71,
+   "lo": 23.22,
+   "hi": 30.36,
+   "b": 223,
+   "c": 18,
+   "p_mcn": "<0.001",
+   "p_nb": 0.002
+  }
+ }
+}

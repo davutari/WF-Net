@@ -1,0 +1,771 @@
+index,relative_path,class,fold0,fold1,fold2,fold3,fold4
+0,Electronic waste/Image_1.jpg,Electronic waste,test,train,train,train,train
+1,Electronic waste/image_10.jpg,Electronic waste,train,val,test,val,val
+2,Electronic waste/image_100.jpg,Electronic waste,val,train,val,train,test
+3,Electronic waste/Image_11.jpg,Electronic waste,train,train,test,train,train
+4,Electronic waste/Image_12.jpg,Electronic waste,train,train,test,train,train
+5,Electronic waste/Image_13.jpg,Electronic waste,train,train,test,train,train
+6,Electronic waste/Image_14.jpg,Electronic waste,train,val,train,test,train
+7,Electronic waste/Image_15.jpg,Electronic waste,val,train,train,test,val
+8,Electronic waste/image_16.jpg,Electronic waste,train,train,train,val,test
+9,Electronic waste/Image_17.jpg,Electronic waste,test,val,train,train,train
+10,Electronic waste/image_18.jpg,Electronic waste,train,train,test,train,train
+11,Electronic waste/Image_19.jpg,Electronic waste,val,test,val,val,val
+12,Electronic waste/Image_2.jpg,Electronic waste,train,test,train,train,train
+13,Electronic waste/Image_20.jpg,Electronic waste,train,train,train,train,test
+14,Electronic waste/Image_21.jpg,Electronic waste,test,train,val,train,train
+15,Electronic waste/Image_22.jpg,Electronic waste,test,train,train,train,train
+16,Electronic waste/Image_23.jpg,Electronic waste,train,train,train,test,train
+17,Electronic waste/Image_24.jpg,Electronic waste,train,train,train,train,test
+18,Electronic waste/Image_25.jpg,Electronic waste,train,test,train,train,train
+19,Electronic waste/Image_26.jpg,Electronic waste,train,train,test,train,train
+20,Electronic waste/Image_27.jpg,Electronic waste,test,train,train,train,train
+21,Electronic waste/Image_28.jpg,Electronic waste,train,train,train,test,train
+22,Electronic waste/Image_29.jpg,Electronic waste,train,train,train,test,train
+23,Electronic waste/image_3.jpg,Electronic waste,train,train,test,train,train
+24,Electronic waste/Image_30.jpg,Electronic waste,train,train,test,train,train
+25,Electronic waste/Image_31.png,Electronic waste,train,test,train,train,train
+26,Electronic waste/Image_32.jpg,Electronic waste,train,test,train,train,train
+27,Electronic waste/Image_33.jpg,Electronic waste,val,train,train,train,test
+28,Electronic waste/Image_34.png,Electronic waste,test,val,train,val,val
+29,Electronic waste/Image_35.jpg,Electronic waste,val,val,train,val,test
+30,Electronic waste/Image_36.jpg,Electronic waste,val,test,train,train,val
+31,Electronic waste/Image_37.png,Electronic waste,test,train,val,train,train
+32,Electronic waste/Image_38.jpg,Electronic waste,train,train,test,val,train
+33,Electronic waste/image_39.jpg,Electronic waste,train,test,val,train,val
+34,Electronic waste/Image_4.jpg,Electronic waste,val,val,test,train,train
+35,Electronic waste/Image_40.jpg,Electronic waste,train,train,test,train,train
+36,Electronic waste/Image_41.jpg,Electronic waste,train,train,train,train,test
+37,Electronic waste/Image_42.jpg,Electronic waste,train,train,train,test,train
+38,Electronic waste/Image_43.jpg,Electronic waste,train,train,val,test,train
+39,Electronic waste/Image_44.jpg,Electronic waste,train,train,test,train,train
+40,Electronic waste/Image_45.jpg,Electronic waste,test,train,train,train,train
+41,Electronic waste/Image_46.jpg,Electronic waste,train,test,train,train,train
+42,Electronic waste/image_47.jpg,Electronic waste,test,train,train,train,train
+43,Electronic waste/image_48.jpg,Electronic waste,test,train,train,train,train
+44,Electronic waste/image_49.jpg,Electronic waste,train,test,train,train,train
+45,Electronic waste/Image_5.jpg,Electronic waste,train,train,train,test,train
+46,Electronic waste/image_50.jpg,Electronic waste,train,train,train,test,val
+47,Electronic waste/Image_51.jpeg,Electronic waste,train,test,train,train,train
+48,Electronic waste/Image_52.jpg,Electronic waste,train,train,test,val,train
+49,Electronic waste/Image_53.jpg,Electronic waste,test,val,train,train,train
+50,Electronic waste/Image_54.jpg,Electronic waste,val,train,test,train,train
+51,Electronic waste/Image_55.jpeg,Electronic waste,train,train,train,test,train
+52,Electronic waste/Image_56.jpg,Electronic waste,train,test,train,train,train
+53,Electronic waste/Image_57.jpg,Electronic waste,train,train,val,train,test
+54,Electronic waste/Image_58.jpg,Electronic waste,train,train,train,test,train
+55,Electronic waste/Image_59.jpg,Electronic waste,train,test,train,train,train
+56,Electronic waste/image_6.jpg,Electronic waste,test,train,train,train,train
+57,Electronic waste/Image_60.jpg,Electronic waste,train,train,train,test,train
+58,Electronic waste/Image_61.jpg,Electronic waste,test,train,train,train,train
+59,Electronic waste/Image_62.jpeg,Electronic waste,train,train,test,train,train
+60,Electronic waste/Image_63.jpg,Electronic waste,train,test,train,train,train
+61,Electronic waste/Image_64.jpg,Electronic waste,train,train,test,train,train
+62,Electronic waste/Image_65.jpg,Electronic waste,test,train,train,train,val
+63,Electronic waste/Image_66.jpg,Electronic waste,train,test,train,train,train
+64,Electronic waste/Image_67.jpg,Electronic waste,test,train,train,train,train
+65,Electronic waste/Image_68.jpg,Electronic waste,train,train,train,train,test
+66,Electronic waste/Image_69.jpg,Electronic waste,train,train,test,val,train
+67,Electronic waste/Image_7.png,Electronic waste,train,train,train,train,test
+68,Electronic waste/Image_70.jpg,Electronic waste,train,val,train,test,train
+69,Electronic waste/Image_71.jpg,Electronic waste,val,train,train,train,test
+70,Electronic waste/Image_72.jpg,Electronic waste,train,train,train,train,test
+71,Electronic waste/Image_73.jpg,Electronic waste,test,train,val,train,train
+72,Electronic waste/Image_74.jpg,Electronic waste,train,test,train,train,train
+73,Electronic waste/Image_75.jpeg,Electronic waste,train,train,train,test,val
+74,Electronic waste/Image_76.jpg,Electronic waste,train,train,test,train,train
+75,Electronic waste/Image_77.jpg,Electronic waste,train,train,test,val,train
+76,Electronic waste/Image_78.jpg,Electronic waste,test,val,train,train,train
+77,Electronic waste/Image_79.jpg,Electronic waste,train,train,train,test,train
+78,Electronic waste/Image_8.jpg,Electronic waste,train,train,train,test,train
+79,Electronic waste/Image_80.jpg,Electronic waste,train,train,train,test,train
+80,Electronic waste/Image_81.png,Electronic waste,train,train,val,test,train
+81,Electronic waste/Image_82.jpg,Electronic waste,train,test,train,train,train
+82,Electronic waste/image_83.jpg,Electronic waste,train,train,train,train,test
+83,Electronic waste/Image_84.jpg,Electronic waste,train,test,train,train,train
+84,Electronic waste/Image_85.jpg,Electronic waste,test,train,train,train,train
+85,Electronic waste/Image_86.jpg,Electronic waste,train,test,train,train,val
+86,Electronic waste/Image_87.jpg,Electronic waste,train,train,train,train,test
+87,Electronic waste/Image_88.jpg,Electronic waste,train,train,test,train,train
+88,Electronic waste/image_89.jpg,Electronic waste,test,train,train,train,val
+89,Electronic waste/image_9.jpg,Electronic waste,test,train,train,train,train
+90,Electronic waste/Image_90.jpeg,Electronic waste,train,val,train,test,train
+91,Electronic waste/Image_91.png,Electronic waste,train,train,train,val,test
+92,Electronic waste/Image_92.jpg,Electronic waste,val,val,val,train,test
+93,Electronic waste/Image_93.jpg,Electronic waste,train,train,train,val,test
+94,Electronic waste/Image_94.jpg,Electronic waste,train,train,val,train,test
+95,Electronic waste/Image_95.jpeg,Electronic waste,val,train,train,train,test
+96,Electronic waste/Image_96.png,Electronic waste,train,test,train,train,train
+97,Electronic waste/Image_97.webp,Electronic waste,train,val,train,val,test
+98,Electronic waste/Image_98.jpg,Electronic waste,train,train,val,test,val
+99,Electronic waste/Image_99.png,Electronic waste,val,test,train,train,train
+100,General waste/Image_1.png,General waste,train,train,train,test,train
+101,General waste/Image_10.jpg,General waste,train,train,train,train,test
+102,General waste/Image_100.jpg,General waste,train,train,test,train,train
+103,General waste/Image_11.jpg,General waste,train,test,train,train,train
+104,General waste/Image_12.jpg,General waste,train,train,test,train,train
+105,General waste/Image_13.jpg,General waste,test,train,train,train,train
+106,General waste/Image_15.jpeg,General waste,val,val,train,val,test
+107,General waste/Image_16.jpg,General waste,train,train,val,test,val
+108,General waste/Image_18.jpg,General waste,train,train,train,train,test
+109,General waste/Image_20.jpg,General waste,train,test,train,train,train
+110,General waste/Image_21.jpg,General waste,train,train,test,train,train
+111,General waste/Image_22.jpg,General waste,train,train,train,test,train
+112,General waste/Image_23.jpg,General waste,train,train,train,test,train
+113,General waste/Image_24.jpg,General waste,train,train,train,train,test
+114,General waste/Image_25.webp,General waste,train,train,train,train,test
+115,General waste/Image_26.webp,General waste,test,train,train,train,train
+116,General waste/Image_27.jpg,General waste,train,train,train,test,train
+117,General waste/Image_28.jpg,General waste,train,test,train,train,train
+118,General waste/Image_3.jpg,General waste,train,train,test,train,train
+119,General waste/Image_31.jpg,General waste,train,train,train,test,train
+120,General waste/Image_34.jpg,General waste,val,train,train,test,train
+121,General waste/Image_35.jpg,General waste,val,test,train,train,train
+122,General waste/Image_4.png,General waste,train,val,test,train,train
+123,General waste/Image_41.jpg,General waste,train,test,val,train,val
+124,General waste/Image_43.jpg,General waste,train,test,val,train,val
+125,General waste/Image_45.jpg,General waste,val,test,train,val,train
+126,General waste/Image_49.jpeg,General waste,train,val,test,val,train
+127,General waste/Image_57.jpg,General waste,val,train,train,test,train
+128,General waste/Image_59.jpg,General waste,test,train,train,train,val
+129,General waste/Image_6.jpg,General waste,train,train,val,train,test
+130,General waste/Image_62.jpg,General waste,train,val,train,train,test
+131,General waste/Image_64.jpg,General waste,train,train,val,val,test
+132,General waste/Image_69.jpg,General waste,test,val,train,train,train
+133,General waste/Image_7.jpg,General waste,val,train,train,test,val
+134,General waste/Image_72.jpg,General waste,train,train,test,val,train
+135,General waste/Image_75.jpg,General waste,test,train,train,train,train
+136,General waste/Image_76.png,General waste,train,test,val,train,train
+137,General waste/Image_77.jpg,General waste,train,test,train,train,val
+138,General waste/Image_8.jpg,General waste,train,val,test,val,train
+139,General waste/Image_80.jpg,General waste,train,test,train,train,train
+140,General waste/Image_81.jpg,General waste,test,train,train,train,train
+141,General waste/Image_83.jpg,General waste,train,test,train,train,train
+142,General waste/Image_87.png,General waste,test,train,train,train,train
+143,General waste/Image_88.webp,General waste,train,train,test,train,train
+144,General waste/Image_9.jpg,General waste,train,train,train,train,test
+145,General waste/Image_90.jpg,General waste,test,train,train,train,train
+146,General waste/Image_91.jpg,General waste,train,train,test,train,train
+147,General waste/Image_92.jpg,General waste,train,train,train,train,test
+148,General waste/Image_94.png,General waste,train,train,train,test,train
+149,General waste/Image_96.jpg,General waste,test,train,train,train,train
+150,General waste/Image_97.jpg,General waste,test,train,train,train,train
+151,General waste/Image_98.jpg,General waste,test,train,train,train,train
+152,Glass waste/Image_1.jpg,Glass waste,test,train,train,train,train
+153,Glass waste/Image_10.jpg,Glass waste,test,train,train,train,train
+154,Glass waste/Image_100.jpg,Glass waste,train,train,train,test,train
+155,Glass waste/Image_11.webp,Glass waste,train,test,train,train,train
+156,Glass waste/Image_12.webp,Glass waste,train,test,val,train,val
+157,Glass waste/Image_13.webp,Glass waste,train,train,test,val,train
+158,Glass waste/Image_14.webp,Glass waste,val,val,test,train,train
+159,Glass waste/Image_15.jpg,Glass waste,train,train,train,train,test
+160,Glass waste/Image_16.jpg,Glass waste,train,train,train,test,train
+161,Glass waste/Image_17.jpg,Glass waste,train,train,train,train,test
+162,Glass waste/Image_18.webp,Glass waste,train,train,train,test,train
+163,Glass waste/Image_19.jpg,Glass waste,train,train,train,train,test
+164,Glass waste/Image_2.jpg,Glass waste,train,test,train,train,train
+165,Glass waste/Image_20.jpg,Glass waste,train,train,train,train,test
+166,Glass waste/Image_21.jpg,Glass waste,test,train,train,train,train
+167,Glass waste/Image_22.jpg,Glass waste,train,train,train,train,test
+168,Glass waste/Image_23.jpg,Glass waste,train,train,train,train,test
+169,Glass waste/Image_24.jpg,Glass waste,test,train,train,train,train
+170,Glass waste/Image_25.jpg,Glass waste,train,train,train,test,train
+171,Glass waste/Image_26.jpg,Glass waste,train,train,test,train,train
+172,Glass waste/Image_27.jpg,Glass waste,train,val,test,train,train
+173,Glass waste/Image_28.jpg,Glass waste,val,train,val,test,train
+174,Glass waste/Image_29.jpg,Glass waste,train,train,train,val,test
+175,Glass waste/Image_3.jpg,Glass waste,train,val,train,test,train
+176,Glass waste/Image_30.jpg,Glass waste,test,train,val,train,val
+177,Glass waste/Image_31.jpg,Glass waste,val,train,train,test,train
+178,Glass waste/Image_32.jpg,Glass waste,train,train,test,train,train
+179,Glass waste/Image_33.jpg,Glass waste,train,train,train,val,test
+180,Glass waste/Image_34.jpg,Glass waste,train,train,train,train,test
+181,Glass waste/Image_35.jpg,Glass waste,train,train,train,train,test
+182,Glass waste/Image_36.jpg,Glass waste,train,train,train,test,val
+183,Glass waste/Image_37.jpg,Glass waste,train,train,train,test,train
+184,Glass waste/Image_38.jpg,Glass waste,train,train,test,train,train
+185,Glass waste/Image_39.jpg,Glass waste,test,val,train,train,train
+186,Glass waste/Image_4.jpg,Glass waste,test,val,train,train,train
+187,Glass waste/Image_40.jpg,Glass waste,train,train,train,train,test
+188,Glass waste/Image_41.jpg,Glass waste,train,train,val,test,train
+189,Glass waste/Image_42.jpg,Glass waste,val,train,test,train,train
+190,Glass waste/Image_43.jpg,Glass waste,val,train,val,test,train
+191,Glass waste/Image_44.jpg,Glass waste,train,test,train,train,train
+192,Glass waste/Image_45.jpg,Glass waste,train,train,test,train,train
+193,Glass waste/Image_46.jpg,Glass waste,test,train,train,val,val
+194,Glass waste/Image_47.jpg,Glass waste,train,train,train,val,test
+195,Glass waste/Image_48.jpg,Glass waste,train,test,train,train,val
+196,Glass waste/Image_49.jpg,Glass waste,test,train,train,train,train
+197,Glass waste/Image_5.jpg,Glass waste,train,train,train,test,train
+198,Glass waste/Image_50.jpg,Glass waste,train,val,test,train,train
+199,Glass waste/Image_51.jpg,Glass waste,train,test,train,train,train
+200,Glass waste/Image_52.jpg,Glass waste,train,test,train,train,train
+201,Glass waste/Image_53.jpg,Glass waste,train,train,test,train,train
+202,Glass waste/Image_54.jpg,Glass waste,val,train,train,test,train
+203,Glass waste/Image_55.jpg,Glass waste,train,train,val,train,test
+204,Glass waste/Image_56.jpg,Glass waste,train,test,train,train,train
+205,Glass waste/Image_57.jpg,Glass waste,test,train,train,train,train
+206,Glass waste/Image_58.jpg,Glass waste,test,train,train,val,val
+207,Glass waste/Image_59.jpg,Glass waste,train,train,test,train,train
+208,Glass waste/Image_6.jpg,Glass waste,train,train,test,train,train
+209,Glass waste/Image_60.jpg,Glass waste,train,val,test,train,train
+210,Glass waste/Image_61.jpg,Glass waste,train,test,train,train,train
+211,Glass waste/Image_62.jpg,Glass waste,train,train,train,test,train
+212,Glass waste/Image_63.jpg,Glass waste,val,train,test,train,train
+213,Glass waste/Image_64.jpg,Glass waste,train,train,test,train,train
+214,Glass waste/Image_65.jpg,Glass waste,train,train,test,train,val
+215,Glass waste/Image_66.jpg,Glass waste,train,test,train,val,train
+216,Glass waste/Image_67.jpg,Glass waste,train,test,train,train,train
+217,Glass waste/Image_68.jpg,Glass waste,train,train,val,train,test
+218,Glass waste/Image_69.jpg,Glass waste,test,train,train,train,train
+219,Glass waste/Image_7.jpg,Glass waste,train,test,train,train,train
+220,Glass waste/Image_70.jpg,Glass waste,train,train,train,test,train
+221,Glass waste/Image_71.jpg,Glass waste,train,test,train,train,train
+222,Glass waste/Image_72.jpg,Glass waste,train,train,train,test,train
+223,Glass waste/Image_73.jpg,Glass waste,test,train,train,train,train
+224,Glass waste/Image_74.jpg,Glass waste,test,train,train,train,train
+225,Glass waste/Image_75.jpg,Glass waste,train,train,train,test,train
+226,Glass waste/Image_76.jpg,Glass waste,train,train,test,train,train
+227,Glass waste/Image_77.jpg,Glass waste,train,test,train,train,train
+228,Glass waste/Image_78.jpg,Glass waste,train,train,train,train,test
+229,Glass waste/Image_79.jpg,Glass waste,train,test,train,train,train
+230,Glass waste/Image_8.jpg,Glass waste,val,train,train,train,test
+231,Glass waste/Image_80.jpg,Glass waste,train,test,train,train,train
+232,Glass waste/Image_81.jpg,Glass waste,val,test,train,train,val
+233,Glass waste/Image_82.jpg,Glass waste,train,test,val,val,train
+234,Glass waste/Image_83.jpg,Glass waste,test,val,train,train,val
+235,Glass waste/Image_84.jpg,Glass waste,train,train,val,val,test
+236,Glass waste/Image_85.jpg,Glass waste,train,val,train,test,train
+237,Glass waste/Image_86.jpg,Glass waste,val,train,test,train,train
+238,Glass waste/Image_87.jpg,Glass waste,train,test,train,train,train
+239,Glass waste/Image_88.jpg,Glass waste,test,train,train,train,val
+240,Glass waste/Image_89.jpg,Glass waste,val,test,val,val,train
+241,Glass waste/Image_9.jpg,Glass waste,train,train,train,test,val
+242,Glass waste/Image_90.jpg,Glass waste,test,val,val,train,train
+243,Glass waste/Image_91.jpg,Glass waste,train,train,train,val,test
+244,Glass waste/Image_92.jpeg,Glass waste,train,val,test,train,train
+245,Glass waste/Image_93.jpg,Glass waste,train,train,train,train,test
+246,Glass waste/Image_94.jpg,Glass waste,test,train,train,train,train
+247,Glass waste/Image_95.jpg,Glass waste,test,train,train,train,train
+248,Glass waste/Image_96.jpg,Glass waste,train,train,train,test,train
+249,Glass waste/Image_97.jpg,Glass waste,train,train,test,train,train
+250,Glass waste/Image_98.jpg,Glass waste,test,train,train,train,val
+251,Glass waste/Image_99.jpg,Glass waste,val,val,val,val,test
+252,Hazardous waste/Image_10.jpg,Hazardous waste,test,train,train,train,train
+253,Hazardous waste/Image_100.webp,Hazardous waste,train,val,val,val,test
+254,Hazardous waste/Image_11.jpg,Hazardous waste,val,val,val,val,test
+255,Hazardous waste/Image_16.png,Hazardous waste,val,train,train,test,val
+256,Hazardous waste/Image_17.png,Hazardous waste,test,train,train,train,val
+257,Hazardous waste/Image_2.jpg,Hazardous waste,train,val,test,train,train
+258,Hazardous waste/Image_24.jpg,Hazardous waste,train,test,val,val,train
+259,Hazardous waste/Image_25.jpg,Hazardous waste,val,test,train,train,val
+260,Hazardous waste/Image_26.jpg,Hazardous waste,train,train,test,train,train
+261,Hazardous waste/Image_27.jpg,Hazardous waste,train,test,train,train,train
+262,Hazardous waste/Image_28.png,Hazardous waste,test,train,train,train,train
+263,Hazardous waste/Image_29.png,Hazardous waste,train,train,train,test,train
+264,Hazardous waste/Image_3.jpg,Hazardous waste,train,train,train,test,train
+265,Hazardous waste/Image_30.jpg,Hazardous waste,train,test,train,train,train
+266,Hazardous waste/Image_31.png,Hazardous waste,train,train,test,train,train
+267,Hazardous waste/Image_32.png,Hazardous waste,train,train,train,train,test
+268,Hazardous waste/Image_33.png,Hazardous waste,val,train,val,test,val
+269,Hazardous waste/Image_34.png,Hazardous waste,train,val,test,val,train
+270,Hazardous waste/Image_35.png,Hazardous waste,train,test,train,train,train
+271,Hazardous waste/Image_36.jpg,Hazardous waste,train,train,test,train,train
+272,Hazardous waste/Image_37.png,Hazardous waste,train,train,test,train,train
+273,Hazardous waste/Image_38.jpg,Hazardous waste,test,train,train,train,train
+274,Hazardous waste/Image_39.jpg,Hazardous waste,train,train,train,test,train
+275,Hazardous waste/Image_4.png,Hazardous waste,train,train,train,train,test
+276,Hazardous waste/Image_40.png,Hazardous waste,train,train,test,train,train
+277,Hazardous waste/Image_41.jpg,Hazardous waste,test,train,train,train,train
+278,Hazardous waste/Image_42.jpg,Hazardous waste,train,train,train,train,test
+279,Hazardous waste/Image_43.jpg,Hazardous waste,train,train,test,train,train
+280,Hazardous waste/Image_44.jpg,Hazardous waste,val,val,train,test,val
+281,Hazardous waste/Image_45.jpg,Hazardous waste,train,train,test,val,train
+282,Hazardous waste/Image_46.webp,Hazardous waste,train,train,train,test,train
+283,Hazardous waste/Image_47.jpg,Hazardous waste,train,train,train,test,train
+284,Hazardous waste/Image_48.jpg,Hazardous waste,train,train,val,train,test
+285,Hazardous waste/Image_49.jpg,Hazardous waste,train,test,train,train,train
+286,Hazardous waste/Image_5.jpg,Hazardous waste,train,train,train,test,train
+287,Hazardous waste/Image_50.jpg,Hazardous waste,train,train,train,train,test
+288,Hazardous waste/Image_51.jpg,Hazardous waste,test,train,train,train,train
+289,Hazardous waste/Image_52.webp,Hazardous waste,test,train,train,train,train
+290,Hazardous waste/Image_53.png,Hazardous waste,train,val,train,train,test
+291,Hazardous waste/Image_54.png,Hazardous waste,test,val,train,train,train
+292,Hazardous waste/Image_55.jpg,Hazardous waste,val,train,train,test,val
+293,Hazardous waste/Image_56.png,Hazardous waste,test,train,val,train,val
+294,Hazardous waste/Image_58.jpg,Hazardous waste,val,val,test,val,train
+295,Hazardous waste/Image_59.webp,Hazardous waste,train,test,val,val,train
+296,Hazardous waste/Image_6.png,Hazardous waste,test,train,train,train,val
+297,Hazardous waste/Image_60.png,Hazardous waste,train,train,train,train,test
+298,Hazardous waste/Image_61.jpg,Hazardous waste,val,train,val,val,test
+299,Hazardous waste/Image_62.png,Hazardous waste,train,train,test,train,train
+300,Hazardous waste/Image_63.jpg,Hazardous waste,train,val,train,train,test
+301,Hazardous waste/Image_66.jpg,Hazardous waste,train,train,train,test,train
+302,Hazardous waste/Image_67.jpg,Hazardous waste,train,test,train,train,train
+303,Hazardous waste/Image_68.jpg,Hazardous waste,val,train,train,test,train
+304,Hazardous waste/Image_69.jpg,Hazardous waste,test,train,val,train,val
+305,Hazardous waste/Image_7.png,Hazardous waste,test,train,train,val,train
+306,Hazardous waste/Image_70.jpg,Hazardous waste,train,test,train,train,train
+307,Hazardous waste/Image_72.png,Hazardous waste,train,train,train,train,test
+308,Hazardous waste/Image_73.jpg,Hazardous waste,train,val,train,train,test
+309,Hazardous waste/Image_74.jpg,Hazardous waste,train,train,test,train,train
+310,Hazardous waste/Image_75.jpeg,Hazardous waste,train,train,train,train,test
+311,Hazardous waste/Image_76.jpg,Hazardous waste,val,test,val,val,train
+312,Hazardous waste/Image_77.jpg,Hazardous waste,train,train,train,test,train
+313,Hazardous waste/Image_79.png,Hazardous waste,test,train,train,train,val
+314,Hazardous waste/Image_8.jpg,Hazardous waste,train,train,test,train,train
+315,Hazardous waste/Image_82.jpg,Hazardous waste,train,test,train,train,train
+316,Hazardous waste/Image_83.jpg,Hazardous waste,train,test,train,train,train
+317,Hazardous waste/Image_84.png,Hazardous waste,train,train,test,train,train
+318,Hazardous waste/Image_85.png,Hazardous waste,train,train,train,train,test
+319,Hazardous waste/Image_87.jpg,Hazardous waste,train,train,train,test,train
+320,Hazardous waste/Image_88.jpg,Hazardous waste,train,train,train,test,train
+321,Hazardous waste/Image_89.png,Hazardous waste,train,test,train,train,train
+322,Hazardous waste/Image_9.jpg,Hazardous waste,train,test,train,train,train
+323,Hazardous waste/Image_90.jpg,Hazardous waste,test,train,train,train,train
+324,Hazardous waste/Image_91.png,Hazardous waste,test,train,train,train,train
+325,Hazardous waste/Image_92.jpeg,Hazardous waste,train,train,test,train,train
+326,Hazardous waste/Image_93.jpg,Hazardous waste,train,test,train,train,train
+327,Hazardous waste/Image_95.jpg,Hazardous waste,test,train,train,train,train
+328,Hazardous waste/Image_96.jpg,Hazardous waste,train,train,test,train,train
+329,Hazardous waste/Image_97.jpeg,Hazardous waste,train,train,train,test,train
+330,Hazardous waste/Image_98.jpg,Hazardous waste,train,train,train,train,test
+331,Hazardous waste/Image_99.png,Hazardous waste,train,test,train,train,train
+332,Medicinal waste/Image_10.jpg,Medicinal waste,train,train,train,test,train
+333,Medicinal waste/Image_100.jpg,Medicinal waste,train,train,test,train,train
+334,Medicinal waste/Image_11.jpg,Medicinal waste,train,train,test,train,train
+335,Medicinal waste/Image_12.jpeg,Medicinal waste,train,train,train,train,test
+336,Medicinal waste/Image_13.jpg,Medicinal waste,test,val,train,train,train
+337,Medicinal waste/Image_14.jpg,Medicinal waste,test,train,train,val,val
+338,Medicinal waste/Image_16.jpg,Medicinal waste,val,train,test,train,train
+339,Medicinal waste/Image_17.jpg,Medicinal waste,train,train,val,train,test
+340,Medicinal waste/Image_18.jpg,Medicinal waste,test,train,train,train,train
+341,Medicinal waste/Image_19.jpg,Medicinal waste,test,train,train,train,train
+342,Medicinal waste/Image_2.jpg,Medicinal waste,train,train,train,test,train
+343,Medicinal waste/Image_20.jpg,Medicinal waste,train,test,train,train,train
+344,Medicinal waste/Image_21.jpg,Medicinal waste,train,train,train,train,test
+345,Medicinal waste/Image_25.jpg,Medicinal waste,train,train,train,train,test
+346,Medicinal waste/Image_26.jpg,Medicinal waste,train,train,train,test,train
+347,Medicinal waste/Image_28.jpg,Medicinal waste,test,train,train,train,train
+348,Medicinal waste/Image_3.webp,Medicinal waste,train,val,train,train,test
+349,Medicinal waste/Image_30.jpg,Medicinal waste,train,train,test,train,train
+350,Medicinal waste/Image_31.jpg,Medicinal waste,train,train,train,test,train
+351,Medicinal waste/Image_34.jpg,Medicinal waste,test,train,val,val,train
+352,Medicinal waste/Image_35.jpg,Medicinal waste,train,train,train,train,test
+353,Medicinal waste/Image_36.jpg,Medicinal waste,val,train,train,test,val
+354,Medicinal waste/Image_37.jpg,Medicinal waste,train,train,train,test,train
+355,Medicinal waste/Image_38.jpg,Medicinal waste,train,test,train,train,train
+356,Medicinal waste/Image_4.jpg,Medicinal waste,train,test,train,train,train
+357,Medicinal waste/Image_41.webp,Medicinal waste,test,val,train,train,train
+358,Medicinal waste/Image_42.jpg,Medicinal waste,train,val,test,train,train
+359,Medicinal waste/Image_43.webp,Medicinal waste,train,train,test,train,train
+360,Medicinal waste/Image_44.jpg,Medicinal waste,train,test,val,val,val
+361,Medicinal waste/Image_45.jpg,Medicinal waste,val,train,val,test,val
+362,Medicinal waste/Image_47.png,Medicinal waste,val,train,train,val,test
+363,Medicinal waste/Image_48.jpg,Medicinal waste,train,test,train,train,train
+364,Medicinal waste/Image_49.jpg,Medicinal waste,test,train,train,train,train
+365,Medicinal waste/Image_50.jpg,Medicinal waste,train,train,train,train,test
+366,Medicinal waste/Image_51.jpg,Medicinal waste,test,train,train,train,train
+367,Medicinal waste/Image_52.png,Medicinal waste,test,train,train,train,train
+368,Medicinal waste/Image_53.jpg,Medicinal waste,train,test,train,train,train
+369,Medicinal waste/Image_55.png,Medicinal waste,train,test,train,train,train
+370,Medicinal waste/Image_57.jpg,Medicinal waste,train,test,train,train,train
+371,Medicinal waste/Image_58.jpg,Medicinal waste,train,train,train,test,train
+372,Medicinal waste/Image_59.jpg,Medicinal waste,train,train,train,train,test
+373,Medicinal waste/Image_6.jpg,Medicinal waste,test,train,val,train,train
+374,Medicinal waste/Image_60.jpg,Medicinal waste,train,train,train,test,train
+375,Medicinal waste/Image_61.jpg,Medicinal waste,train,val,train,train,test
+376,Medicinal waste/Image_62.jpg,Medicinal waste,train,train,test,val,train
+377,Medicinal waste/Image_63.jpg,Medicinal waste,train,train,train,test,val
+378,Medicinal waste/Image_64.jpg,Medicinal waste,val,test,val,train,train
+379,Medicinal waste/Image_65.png,Medicinal waste,train,train,test,train,train
+380,Medicinal waste/Image_66.jpg,Medicinal waste,train,val,test,train,train
+381,Medicinal waste/Image_67.jpg,Medicinal waste,train,train,test,val,val
+382,Medicinal waste/Image_68.jpg,Medicinal waste,val,train,train,train,test
+383,Medicinal waste/Image_69.jpg,Medicinal waste,test,train,train,train,train
+384,Medicinal waste/Image_7.jpeg,Medicinal waste,train,train,train,test,train
+385,Medicinal waste/Image_70.jpg,Medicinal waste,train,train,train,train,test
+386,Medicinal waste/Image_74.jpg,Medicinal waste,train,test,train,train,train
+387,Medicinal waste/Image_76.jpg,Medicinal waste,train,val,val,test,train
+388,Medicinal waste/Image_77.jpg,Medicinal waste,train,test,train,train,train
+389,Medicinal waste/Image_8.png,Medicinal waste,test,train,train,val,val
+390,Medicinal waste/Image_81.jpg,Medicinal waste,val,test,train,train,train
+391,Medicinal waste/Image_82.png,Medicinal waste,train,test,val,train,train
+392,Medicinal waste/Image_84.jpeg,Medicinal waste,train,train,train,train,test
+393,Medicinal waste/Image_85.jpg,Medicinal waste,train,train,train,test,train
+394,Medicinal waste/Image_86.jpg,Medicinal waste,val,val,train,test,val
+395,Medicinal waste/Image_88.jpg,Medicinal waste,train,test,train,val,train
+396,Medicinal waste/Image_89.jpg,Medicinal waste,train,train,test,train,train
+397,Medicinal waste/Image_9.jpeg,Medicinal waste,train,train,test,train,train
+398,Medicinal waste/Image_91.jpg,Medicinal waste,train,train,test,train,train
+399,Medicinal waste/Image_92.jpg,Medicinal waste,train,test,train,train,train
+400,Medicinal waste/Image_93.jpg,Medicinal waste,train,train,train,test,train
+401,Medicinal waste/Image_94.jpeg,Medicinal waste,train,train,test,train,train
+402,Medicinal waste/Image_95.jpg,Medicinal waste,train,train,train,train,test
+403,Medicinal waste/Image_96.jpg,Medicinal waste,train,train,test,train,train
+404,Medicinal waste/Image_97.jpg,Medicinal waste,test,train,train,train,train
+405,Medicinal waste/Image_98.jpg,Medicinal waste,test,train,train,train,val
+406,Medicinal waste/Image_99.jpg,Medicinal waste,val,val,val,val,test
+407,Metal waste/Image_1.jpg,Metal waste,train,train,train,test,train
+408,Metal waste/Image_10.jpg,Metal waste,train,train,test,train,train
+409,Metal waste/Image_100.jpg,Metal waste,train,train,test,train,train
+410,Metal waste/Image_11.jpg,Metal waste,val,test,train,train,val
+411,Metal waste/Image_12.jpg,Metal waste,test,val,train,val,train
+412,Metal waste/Image_13.jpg,Metal waste,train,test,val,train,train
+413,Metal waste/Image_14.jpg,Metal waste,test,train,train,train,train
+414,Metal waste/Image_15.jpg,Metal waste,train,train,train,train,test
+415,Metal waste/Image_16.jpg,Metal waste,train,test,train,train,train
+416,Metal waste/Image_17.jpg,Metal waste,test,train,train,train,train
+417,Metal waste/Image_18.jpg,Metal waste,train,train,test,train,train
+418,Metal waste/Image_2.jpg,Metal waste,test,train,train,train,train
+419,Metal waste/Image_23.jpeg,Metal waste,train,train,test,train,train
+420,Metal waste/Image_24.jpg,Metal waste,train,train,train,train,test
+421,Metal waste/Image_25.jpg,Metal waste,test,train,train,val,train
+422,Metal waste/Image_26.jpg,Metal waste,test,train,train,train,val
+423,Metal waste/Image_27.jpg,Metal waste,train,val,test,train,train
+424,Metal waste/Image_28.jpg,Metal waste,train,test,train,train,train
+425,Metal waste/Image_29.jpg,Metal waste,train,train,val,val,test
+426,Metal waste/Image_3.jpg,Metal waste,val,train,train,test,train
+427,Metal waste/Image_30.jpg,Metal waste,train,test,train,val,val
+428,Metal waste/Image_31.jpeg,Metal waste,train,train,train,val,test
+429,Metal waste/Image_32.jpg,Metal waste,train,val,val,val,test
+430,Metal waste/Image_33.jpg,Metal waste,val,val,test,train,val
+431,Metal waste/Image_34.jpg,Metal waste,test,val,val,train,val
+432,Metal waste/Image_35.png,Metal waste,val,test,val,train,val
+433,Metal waste/Image_36.jpeg,Metal waste,test,val,val,val,train
+434,Metal waste/Image_37.jpg,Metal waste,val,train,test,train,train
+435,Metal waste/Image_38.jpg,Metal waste,val,train,train,test,train
+436,Metal waste/Image_39.jpg,Metal waste,train,train,train,train,test
+437,Metal waste/Image_4.png,Metal waste,test,val,train,train,val
+438,Metal waste/Image_40.png,Metal waste,train,train,val,test,train
+439,Metal waste/Image_41.jpg,Metal waste,train,train,train,test,train
+440,Metal waste/Image_42.jpg,Metal waste,val,train,train,train,test
+441,Metal waste/Image_43.jpg,Metal waste,train,test,train,train,train
+442,Metal waste/Image_44.jpg,Metal waste,train,train,test,train,train
+443,Metal waste/Image_45.jpg,Metal waste,train,test,train,val,train
+444,Metal waste/Image_46.jpg,Metal waste,train,train,train,train,test
+445,Metal waste/Image_47.jpg,Metal waste,train,train,test,train,train
+446,Metal waste/Image_48.jpg,Metal waste,test,val,train,train,val
+447,Metal waste/Image_49.jpg,Metal waste,train,train,test,train,train
+448,Metal waste/Image_5.png,Metal waste,val,test,val,train,train
+449,Metal waste/Image_50.png,Metal waste,train,train,train,train,test
+450,Metal waste/Image_51.jpg,Metal waste,train,train,test,train,train
+451,Metal waste/Image_52.webp,Metal waste,test,train,train,train,train
+452,Metal waste/Image_53.jpg,Metal waste,train,train,test,train,train
+453,Metal waste/Image_54.jpg,Metal waste,test,train,train,train,train
+454,Metal waste/Image_55.jpg,Metal waste,train,test,train,train,train
+455,Metal waste/Image_56.jpg,Metal waste,train,train,train,test,train
+456,Metal waste/Image_57.jpg,Metal waste,test,train,train,train,train
+457,Metal waste/Image_58.jpg,Metal waste,test,train,train,val,train
+458,Metal waste/Image_59.jpg,Metal waste,train,test,train,train,train
+459,Metal waste/Image_6.jpg,Metal waste,test,train,train,train,train
+460,Metal waste/Image_60.jpg,Metal waste,train,test,train,train,val
+461,Metal waste/Image_61.jpg,Metal waste,train,test,train,train,train
+462,Metal waste/Image_62.jpg,Metal waste,train,train,test,train,train
+463,Metal waste/Image_63.jpg,Metal waste,test,train,train,train,train
+464,Metal waste/Image_64.jpg,Metal waste,train,val,val,test,train
+465,Metal waste/Image_65.jpg,Metal waste,train,train,train,train,test
+466,Metal waste/Image_66.jpg,Metal waste,train,train,train,test,train
+467,Metal waste/Image_67.jpg,Metal waste,val,train,train,test,train
+468,Metal waste/Image_68.jpg,Metal waste,test,train,train,train,train
+469,Metal waste/Image_69.jpg,Metal waste,train,test,train,train,train
+470,Metal waste/Image_7.jpg,Metal waste,train,train,train,train,test
+471,Metal waste/Image_70.jpg,Metal waste,train,train,train,train,test
+472,Metal waste/Image_71.jpg,Metal waste,train,train,train,test,train
+473,Metal waste/Image_72.jpg,Metal waste,train,train,test,train,train
+474,Metal waste/Image_73.jpg,Metal waste,train,train,train,train,test
+475,Metal waste/Image_74.jpg,Metal waste,train,train,train,test,train
+476,Metal waste/Image_75.jpg,Metal waste,train,train,test,val,train
+477,Metal waste/Image_76.jpg,Metal waste,train,train,test,train,train
+478,Metal waste/Image_77.webp,Metal waste,train,test,train,val,val
+479,Metal waste/Image_78.webp,Metal waste,train,train,train,test,train
+480,Metal waste/Image_79.png,Metal waste,test,val,train,train,val
+481,Metal waste/Image_8.jpg,Metal waste,train,train,val,test,train
+482,Metal waste/Image_80.jpg,Metal waste,train,val,test,train,train
+483,Metal waste/Image_81.png,Metal waste,val,train,test,train,train
+484,Metal waste/Image_82.jpg,Metal waste,train,train,train,train,test
+485,Metal waste/Image_83.jpg,Metal waste,val,train,val,train,test
+486,Metal waste/Image_84.jpg,Metal waste,train,train,train,train,test
+487,Metal waste/Image_85.jpg,Metal waste,train,test,train,train,train
+488,Metal waste/Image_86.jpg,Metal waste,train,train,train,test,train
+489,Metal waste/Image_87.jpg,Metal waste,train,train,train,train,test
+490,Metal waste/Image_88.jpg,Metal waste,train,train,train,test,train
+491,Metal waste/Image_89.jpg,Metal waste,train,train,train,train,test
+492,Metal waste/Image_9.jpg,Metal waste,train,train,test,train,train
+493,Metal waste/Image_90.jpg,Metal waste,test,train,train,train,train
+494,Metal waste/Image_91.jpg,Metal waste,train,train,train,train,test
+495,Metal waste/Image_92.jpg,Metal waste,train,test,train,train,train
+496,Metal waste/Image_93.jpg,Metal waste,train,test,train,val,train
+497,Metal waste/Image_94.jpg,Metal waste,train,train,train,test,train
+498,Metal waste/Image_95.jpg,Metal waste,train,train,train,test,train
+499,Metal waste/Image_96.jpeg,Metal waste,train,val,val,test,train
+500,Metal waste/Image_97.jpg,Metal waste,val,train,train,test,val
+501,Metal waste/Image_98.jpg,Metal waste,train,test,train,train,train
+502,Metal waste/Image_99.jpg,Metal waste,train,train,test,train,train
+503,Organic waste/Image_1.jpg,Organic waste,train,train,train,train,test
+504,Organic waste/Image_10.jpg,Organic waste,val,val,test,val,train
+505,Organic waste/Image_100.jpg,Organic waste,train,train,val,train,test
+506,Organic waste/Image_11.png,Organic waste,train,test,train,train,val
+507,Organic waste/Image_13.jpg,Organic waste,test,train,train,train,train
+508,Organic waste/Image_14.jpg,Organic waste,train,train,train,train,test
+509,Organic waste/Image_15.jpg,Organic waste,train,test,train,val,train
+510,Organic waste/Image_18.jpg,Organic waste,val,test,val,train,train
+511,Organic waste/Image_19.jpeg,Organic waste,train,train,train,train,test
+512,Organic waste/Image_2.jpg,Organic waste,train,val,train,train,test
+513,Organic waste/Image_20.jpg,Organic waste,train,train,train,train,test
+514,Organic waste/Image_21.jpg,Organic waste,train,train,test,train,train
+515,Organic waste/Image_22.jpg,Organic waste,train,test,train,train,val
+516,Organic waste/Image_24.jpg,Organic waste,train,train,train,train,test
+517,Organic waste/Image_25.jpg,Organic waste,train,test,train,train,train
+518,Organic waste/Image_26.jpg,Organic waste,test,train,train,train,train
+519,Organic waste/Image_27.jpg,Organic waste,train,train,test,train,train
+520,Organic waste/Image_28.jpg,Organic waste,test,train,train,train,train
+521,Organic waste/Image_29.jpg,Organic waste,test,train,train,train,train
+522,Organic waste/Image_3.jpg,Organic waste,train,train,train,val,test
+523,Organic waste/Image_30.jpg,Organic waste,train,test,train,train,train
+524,Organic waste/Image_31.jpg,Organic waste,train,test,val,val,train
+525,Organic waste/Image_32.jpg,Organic waste,test,train,val,train,train
+526,Organic waste/Image_33.jpg,Organic waste,test,train,train,train,train
+527,Organic waste/Image_34.jpg,Organic waste,test,train,val,train,train
+528,Organic waste/Image_36.jpg,Organic waste,train,val,train,train,test
+529,Organic waste/Image_37.jpg,Organic waste,val,val,train,val,test
+530,Organic waste/Image_38.jpg,Organic waste,train,train,test,train,train
+531,Organic waste/Image_39.jpg,Organic waste,test,val,train,train,train
+532,Organic waste/Image_4.jpg,Organic waste,val,train,train,train,test
+533,Organic waste/Image_40.jpg,Organic waste,train,test,val,train,val
+534,Organic waste/Image_41.jpg,Organic waste,test,train,train,train,train
+535,Organic waste/Image_42.jpg,Organic waste,train,train,test,train,val
+536,Organic waste/Image_44.jpeg,Organic waste,train,train,train,test,train
+537,Organic waste/Image_45.jpg,Organic waste,train,val,train,test,train
+538,Organic waste/Image_46.jpg,Organic waste,val,train,train,test,train
+539,Organic waste/Image_47.jpg,Organic waste,train,train,train,train,test
+540,Organic waste/Image_48.jpg,Organic waste,train,train,train,test,train
+541,Organic waste/Image_49.jpg,Organic waste,test,train,train,train,val
+542,Organic waste/Image_5.jpg,Organic waste,train,train,test,train,train
+543,Organic waste/Image_50.jpg,Organic waste,train,test,train,val,train
+544,Organic waste/Image_51.png,Organic waste,test,train,train,val,train
+545,Organic waste/Image_52.jpg,Organic waste,train,train,train,test,train
+546,Organic waste/Image_53.jpg,Organic waste,train,test,val,val,train
+547,Organic waste/Image_54.jpg,Organic waste,train,train,val,test,train
+548,Organic waste/Image_55.jpg,Organic waste,train,train,val,test,train
+549,Organic waste/Image_56.jpg,Organic waste,train,test,train,val,train
+550,Organic waste/Image_57.jpg,Organic waste,val,train,test,train,train
+551,Organic waste/Image_58.jpg,Organic waste,val,val,train,train,test
+552,Organic waste/Image_59.jpg,Organic waste,test,val,val,val,val
+553,Organic waste/Image_6.jpg,Organic waste,val,test,train,train,val
+554,Organic waste/Image_60.jpg,Organic waste,val,val,test,train,val
+555,Organic waste/Image_61.jpg,Organic waste,train,train,train,train,test
+556,Organic waste/Image_62.jpg,Organic waste,test,train,train,train,val
+557,Organic waste/Image_63.jpg,Organic waste,train,val,train,test,train
+558,Organic waste/Image_64.jpg,Organic waste,test,train,train,train,train
+559,Organic waste/Image_65.jpg,Organic waste,val,train,train,test,val
+560,Organic waste/Image_66.jpg,Organic waste,train,train,train,test,train
+561,Organic waste/Image_67.png,Organic waste,train,test,train,train,train
+562,Organic waste/Image_68.jpg,Organic waste,train,test,train,train,train
+563,Organic waste/Image_69.jpg,Organic waste,train,train,test,train,train
+564,Organic waste/Image_7.jpg,Organic waste,test,train,train,train,train
+565,Organic waste/Image_71.jpg,Organic waste,train,train,train,test,train
+566,Organic waste/Image_72.jpg,Organic waste,train,train,train,test,train
+567,Organic waste/Image_73.jpg,Organic waste,train,test,val,train,train
+568,Organic waste/Image_74.jpg,Organic waste,train,train,train,test,train
+569,Organic waste/Image_75.jpg,Organic waste,test,train,train,train,train
+570,Organic waste/Image_76.jpg,Organic waste,train,train,train,test,train
+571,Organic waste/Image_77.jpg,Organic waste,train,train,train,test,train
+572,Organic waste/Image_78.jpg,Organic waste,test,train,train,train,val
+573,Organic waste/Image_79.jpg,Organic waste,train,val,train,test,train
+574,Organic waste/Image_8.jpg,Organic waste,train,train,test,val,train
+575,Organic waste/Image_80.jpg,Organic waste,val,train,train,train,test
+576,Organic waste/Image_81.jpg,Organic waste,train,train,train,test,train
+577,Organic waste/Image_82.jpg,Organic waste,train,train,test,train,train
+578,Organic waste/Image_83.jpg,Organic waste,train,train,train,test,train
+579,Organic waste/Image_84.jpg,Organic waste,test,train,train,train,train
+580,Organic waste/Image_85.jpg,Organic waste,train,train,train,train,test
+581,Organic waste/Image_86.jpg,Organic waste,train,train,test,train,train
+582,Organic waste/Image_87.jpg,Organic waste,train,train,train,train,test
+583,Organic waste/Image_88.jpg,Organic waste,train,train,test,train,train
+584,Organic waste/Image_89.jpg,Organic waste,train,train,train,train,test
+585,Organic waste/Image_9.jpg,Organic waste,train,train,train,train,test
+586,Organic waste/Image_90.jpg,Organic waste,train,test,train,train,train
+587,Organic waste/Image_91.jpg,Organic waste,train,train,test,train,train
+588,Organic waste/Image_92.jpg,Organic waste,train,train,test,train,train
+589,Organic waste/Image_93.jpg,Organic waste,test,train,train,train,train
+590,Organic waste/Image_94.jpg,Organic waste,train,train,test,train,train
+591,Organic waste/Image_95.jpg,Organic waste,train,test,train,train,train
+592,Organic waste/Image_96.jpg,Organic waste,train,test,train,train,train
+593,Organic waste/Image_97.jpg,Organic waste,train,train,test,train,train
+594,Organic waste/Image_98.jpg,Organic waste,train,train,train,test,train
+595,Organic waste/Image_99.jpg,Organic waste,train,train,test,train,train
+596,Paper and cardboard waste/Image_1.jpg,Paper and cardboard waste,test,train,train,train,train
+597,Paper and cardboard waste/Image_10.jpg,Paper and cardboard waste,train,train,train,test,train
+598,Paper and cardboard waste/Image_100.jpg,Paper and cardboard waste,train,train,train,train,test
+599,Paper and cardboard waste/Image_11.jpg,Paper and cardboard waste,train,train,train,train,test
+600,Paper and cardboard waste/Image_12.jpg,Paper and cardboard waste,train,train,train,test,train
+601,Paper and cardboard waste/Image_14.jpg,Paper and cardboard waste,train,train,test,train,train
+602,Paper and cardboard waste/Image_15.jpg,Paper and cardboard waste,train,train,train,train,test
+603,Paper and cardboard waste/Image_16.jpg,Paper and cardboard waste,train,train,train,train,test
+604,Paper and cardboard waste/Image_17.jpg,Paper and cardboard waste,test,val,train,train,train
+605,Paper and cardboard waste/Image_18.jpg,Paper and cardboard waste,train,train,val,test,train
+606,Paper and cardboard waste/Image_19.jpg,Paper and cardboard waste,val,train,train,train,test
+607,Paper and cardboard waste/Image_2.jpg,Paper and cardboard waste,train,val,train,val,test
+608,Paper and cardboard waste/Image_20.jpg,Paper and cardboard waste,test,train,val,train,train
+609,Paper and cardboard waste/Image_21.jpg,Paper and cardboard waste,train,train,train,test,train
+610,Paper and cardboard waste/Image_22.jpg,Paper and cardboard waste,val,train,train,test,val
+611,Paper and cardboard waste/Image_23.jpg,Paper and cardboard waste,train,train,train,train,test
+612,Paper and cardboard waste/Image_24.jpg,Paper and cardboard waste,test,train,train,val,train
+613,Paper and cardboard waste/Image_25.jpg,Paper and cardboard waste,train,train,train,test,train
+614,Paper and cardboard waste/Image_27.png,Paper and cardboard waste,test,train,train,train,val
+615,Paper and cardboard waste/Image_28.jpg,Paper and cardboard waste,train,train,train,test,train
+616,Paper and cardboard waste/Image_29.jpg,Paper and cardboard waste,train,train,test,train,train
+617,Paper and cardboard waste/Image_3.jpg,Paper and cardboard waste,train,test,train,train,train
+618,Paper and cardboard waste/Image_30.jpg,Paper and cardboard waste,train,train,test,train,train
+619,Paper and cardboard waste/Image_31.jpg,Paper and cardboard waste,train,train,train,test,train
+620,Paper and cardboard waste/Image_32.jpg,Paper and cardboard waste,test,train,train,train,train
+621,Paper and cardboard waste/Image_33.jpg,Paper and cardboard waste,train,train,test,train,train
+622,Paper and cardboard waste/Image_34.jpg,Paper and cardboard waste,train,test,train,train,train
+623,Paper and cardboard waste/Image_35.jpg,Paper and cardboard waste,train,test,train,train,train
+624,Paper and cardboard waste/Image_36.jpg,Paper and cardboard waste,train,val,train,test,train
+625,Paper and cardboard waste/Image_37.jpg,Paper and cardboard waste,train,train,val,test,train
+626,Paper and cardboard waste/Image_38.jpg,Paper and cardboard waste,train,train,train,train,test
+627,Paper and cardboard waste/Image_39.jpg,Paper and cardboard waste,val,train,train,train,test
+628,Paper and cardboard waste/Image_4.jpg,Paper and cardboard waste,train,test,train,train,train
+629,Paper and cardboard waste/Image_40.jpg,Paper and cardboard waste,train,test,train,train,train
+630,Paper and cardboard waste/Image_41.jpg,Paper and cardboard waste,train,train,train,test,val
+631,Paper and cardboard waste/Image_42.jpg,Paper and cardboard waste,train,train,train,train,test
+632,Paper and cardboard waste/Image_43.jpg,Paper and cardboard waste,train,train,val,test,train
+633,Paper and cardboard waste/Image_44.jpg,Paper and cardboard waste,train,val,train,val,test
+634,Paper and cardboard waste/Image_46.jpg,Paper and cardboard waste,val,train,test,train,train
+635,Paper and cardboard waste/Image_47.jpg,Paper and cardboard waste,train,test,train,train,train
+636,Paper and cardboard waste/Image_48.jpg,Paper and cardboard waste,train,train,val,train,test
+637,Paper and cardboard waste/Image_49.jpeg,Paper and cardboard waste,val,val,train,test,train
+638,Paper and cardboard waste/Image_50.jpg,Paper and cardboard waste,train,train,test,train,train
+639,Paper and cardboard waste/Image_51.jpg,Paper and cardboard waste,train,train,test,train,train
+640,Paper and cardboard waste/Image_52.jpg,Paper and cardboard waste,train,train,train,train,test
+641,Paper and cardboard waste/Image_53.jpg,Paper and cardboard waste,train,test,train,val,val
+642,Paper and cardboard waste/Image_54.jpg,Paper and cardboard waste,test,train,train,train,train
+643,Paper and cardboard waste/Image_55.jpg,Paper and cardboard waste,test,train,train,train,train
+644,Paper and cardboard waste/Image_56.jpg,Paper and cardboard waste,train,test,train,val,val
+645,Paper and cardboard waste/Image_57.jpg,Paper and cardboard waste,train,train,train,train,test
+646,Paper and cardboard waste/Image_59.jpg,Paper and cardboard waste,train,test,train,train,train
+647,Paper and cardboard waste/Image_6.webp,Paper and cardboard waste,train,test,train,train,train
+648,Paper and cardboard waste/Image_61.jpg,Paper and cardboard waste,train,train,train,train,test
+649,Paper and cardboard waste/Image_62.jpg,Paper and cardboard waste,test,train,train,train,train
+650,Paper and cardboard waste/Image_63.jpg,Paper and cardboard waste,train,test,train,train,train
+651,Paper and cardboard waste/Image_64.jpg,Paper and cardboard waste,train,train,test,train,train
+652,Paper and cardboard waste/Image_65.jpg,Paper and cardboard waste,train,train,test,train,train
+653,Paper and cardboard waste/Image_66.jpg,Paper and cardboard waste,train,train,test,train,train
+654,Paper and cardboard waste/Image_69.jpg,Paper and cardboard waste,train,test,train,train,train
+655,Paper and cardboard waste/Image_7.jpg,Paper and cardboard waste,test,train,train,train,train
+656,Paper and cardboard waste/Image_71.jpg,Paper and cardboard waste,train,train,test,train,train
+657,Paper and cardboard waste/Image_72.jpg,Paper and cardboard waste,test,train,train,train,train
+658,Paper and cardboard waste/Image_73.jpg,Paper and cardboard waste,test,train,train,train,train
+659,Paper and cardboard waste/Image_74.jpg,Paper and cardboard waste,train,test,train,train,train
+660,Paper and cardboard waste/Image_75.jpg,Paper and cardboard waste,train,test,train,train,train
+661,Paper and cardboard waste/Image_76.jpg,Paper and cardboard waste,test,train,val,train,train
+662,Paper and cardboard waste/Image_77.jpg,Paper and cardboard waste,train,train,val,test,train
+663,Paper and cardboard waste/Image_78.jpg,Paper and cardboard waste,test,train,train,train,train
+664,Paper and cardboard waste/Image_79.jpg,Paper and cardboard waste,val,test,val,val,train
+665,Paper and cardboard waste/Image_8.png,Paper and cardboard waste,train,val,val,train,test
+666,Paper and cardboard waste/Image_80.jpg,Paper and cardboard waste,train,test,train,train,val
+667,Paper and cardboard waste/Image_81.jpg,Paper and cardboard waste,val,val,train,test,train
+668,Paper and cardboard waste/Image_82.jpg,Paper and cardboard waste,val,train,train,test,train
+669,Paper and cardboard waste/Image_84.jpg,Paper and cardboard waste,train,val,test,val,val
+670,Paper and cardboard waste/Image_85.jpg,Paper and cardboard waste,test,val,val,val,val
+671,Paper and cardboard waste/Image_86.jpg,Paper and cardboard waste,test,train,train,train,train
+672,Paper and cardboard waste/Image_87.jpg,Paper and cardboard waste,train,train,train,train,test
+673,Paper and cardboard waste/Image_88.jpg,Paper and cardboard waste,train,test,train,train,train
+674,Paper and cardboard waste/Image_89.jpg,Paper and cardboard waste,val,train,test,val,train
+675,Paper and cardboard waste/Image_90.jpg,Paper and cardboard waste,train,val,train,test,val
+676,Paper and cardboard waste/Image_92.jpg,Paper and cardboard waste,val,train,test,train,train
+677,Paper and cardboard waste/Image_93.jpg,Paper and cardboard waste,test,train,train,val,val
+678,Paper and cardboard waste/Image_94.jpg,Paper and cardboard waste,train,train,test,train,train
+679,Paper and cardboard waste/Image_95.jpg,Paper and cardboard waste,train,train,test,train,train
+680,Paper and cardboard waste/Image_96.jpg,Paper and cardboard waste,train,train,test,train,train
+681,Paper and cardboard waste/Image_97.jpg,Paper and cardboard waste,train,test,train,train,train
+682,Paper and cardboard waste/Image_99.jpg,Paper and cardboard waste,train,train,test,val,val
+683,Plastic waste/Image_10.jpg,Plastic waste,test,train,train,train,train
+684,Plastic waste/Image_100.jpg,Plastic waste,train,val,test,val,val
+685,Plastic waste/Image_11.jpg,Plastic waste,val,train,test,train,train
+686,Plastic waste/Image_12.jpg,Plastic waste,test,train,val,train,train
+687,Plastic waste/Image_13.jpg,Plastic waste,test,val,train,val,val
+688,Plastic waste/Image_16.jpg,Plastic waste,train,train,train,test,train
+689,Plastic waste/Image_17.jpg,Plastic waste,test,train,val,train,train
+690,Plastic waste/Image_18.jpg,Plastic waste,train,train,train,train,test
+691,Plastic waste/Image_2.jpg,Plastic waste,val,test,train,train,train
+692,Plastic waste/Image_22.jpg,Plastic waste,train,train,test,train,train
+693,Plastic waste/Image_23.jpg,Plastic waste,test,train,train,train,train
+694,Plastic waste/Image_24.jpg,Plastic waste,test,train,train,train,train
+695,Plastic waste/Image_25.jpg,Plastic waste,train,test,train,train,train
+696,Plastic waste/Image_26.jpg,Plastic waste,train,train,train,train,test
+697,Plastic waste/Image_27.jpg,Plastic waste,test,train,train,train,train
+698,Plastic waste/Image_29.jpg,Plastic waste,train,train,train,test,train
+699,Plastic waste/Image_3.jpg,Plastic waste,train,test,train,val,val
+700,Plastic waste/Image_30.jpg,Plastic waste,train,val,val,train,test
+701,Plastic waste/Image_31.jpg,Plastic waste,train,train,test,train,train
+702,Plastic waste/Image_32.jpg,Plastic waste,train,train,train,test,train
+703,Plastic waste/Image_33.jpg,Plastic waste,train,test,train,train,train
+704,Plastic waste/Image_34.JPG,Plastic waste,test,train,train,train,train
+705,Plastic waste/Image_35.jpg,Plastic waste,val,train,test,train,train
+706,Plastic waste/Image_36.jpg,Plastic waste,train,train,test,train,train
+707,Plastic waste/Image_37.jpg,Plastic waste,train,train,test,train,train
+708,Plastic waste/Image_38.jpg,Plastic waste,train,train,train,test,train
+709,Plastic waste/Image_39.jpg,Plastic waste,train,train,train,train,test
+710,Plastic waste/Image_4.jpg,Plastic waste,train,train,train,train,test
+711,Plastic waste/Image_40.jpg,Plastic waste,train,train,train,test,train
+712,Plastic waste/Image_41.jpg,Plastic waste,train,train,train,test,train
+713,Plastic waste/Image_42.jpg,Plastic waste,train,train,train,test,train
+714,Plastic waste/Image_43.jpg,Plastic waste,train,train,train,test,train
+715,Plastic waste/Image_44.jpg,Plastic waste,train,train,train,train,test
+716,Plastic waste/Image_45.jpg,Plastic waste,train,train,test,train,train
+717,Plastic waste/Image_46.jpg,Plastic waste,test,train,train,train,train
+718,Plastic waste/Image_47.jpg,Plastic waste,train,train,train,train,test
+719,Plastic waste/Image_48.jpg,Plastic waste,train,train,train,test,train
+720,Plastic waste/Image_49.jpg,Plastic waste,train,train,train,train,test
+721,Plastic waste/Image_50.jpg,Plastic waste,train,test,train,train,train
+722,Plastic waste/Image_51.jpg,Plastic waste,train,train,train,test,train
+723,Plastic waste/Image_52.jpg,Plastic waste,train,test,train,train,train
+724,Plastic waste/Image_53.jpg,Plastic waste,test,train,train,train,train
+725,Plastic waste/Image_54.jpg,Plastic waste,train,train,train,train,test
+726,Plastic waste/Image_56.jpg,Plastic waste,train,train,train,train,test
+727,Plastic waste/Image_57.jpg,Plastic waste,test,val,train,train,train
+728,Plastic waste/Image_58.png,Plastic waste,train,train,train,test,train
+729,Plastic waste/Image_59.jpg,Plastic waste,train,val,test,train,train
+730,Plastic waste/Image_60.jpg,Plastic waste,train,train,val,train,test
+731,Plastic waste/Image_61.jpg,Plastic waste,train,train,test,train,train
+732,Plastic waste/Image_62.jpg,Plastic waste,val,train,test,val,val
+733,Plastic waste/Image_63.png,Plastic waste,train,train,train,test,train
+734,Plastic waste/Image_64.jpg,Plastic waste,val,train,test,train,val
+735,Plastic waste/Image_65.jpg,Plastic waste,train,val,test,val,train
+736,Plastic waste/Image_66.jpg,Plastic waste,train,val,test,train,train
+737,Plastic waste/Image_67.jpg,Plastic waste,test,train,val,train,train
+738,Plastic waste/Image_68.jpeg,Plastic waste,train,test,train,train,train
+739,Plastic waste/Image_69.jpg,Plastic waste,train,test,train,train,train
+740,Plastic waste/Image_70.jpg,Plastic waste,train,test,train,train,val
+741,Plastic waste/Image_71.jpg,Plastic waste,val,train,test,val,val
+742,Plastic waste/Image_72.jpg,Plastic waste,test,train,train,val,train
+743,Plastic waste/Image_73.jpg,Plastic waste,val,test,train,train,train
+744,Plastic waste/Image_74.jpg,Plastic waste,train,val,val,train,test
+745,Plastic waste/Image_75.jpg,Plastic waste,train,test,val,train,train
+746,Plastic waste/Image_76.jpg,Plastic waste,train,train,test,val,val
+747,Plastic waste/Image_77.jpg,Plastic waste,val,train,train,train,test
+748,Plastic waste/Image_78.jpg,Plastic waste,test,train,train,train,train
+749,Plastic waste/Image_79.jpeg,Plastic waste,test,val,train,train,train
+750,Plastic waste/Image_80.jpg,Plastic waste,train,train,val,test,train
+751,Plastic waste/Image_81.jpg,Plastic waste,test,train,train,val,val
+752,Plastic waste/Image_82.jpg,Plastic waste,train,train,train,test,train
+753,Plastic waste/Image_83.jpg,Plastic waste,train,train,train,test,train
+754,Plastic waste/Image_84.jpg,Plastic waste,val,test,val,train,train
+755,Plastic waste/Image_85.jpeg,Plastic waste,train,train,train,train,test
+756,Plastic waste/Image_86.jpg,Plastic waste,train,train,train,train,test
+757,Plastic waste/Image_87.jpg,Plastic waste,train,train,train,test,train
+758,Plastic waste/Image_88.jpg,Plastic waste,train,test,train,train,train
+759,Plastic waste/Image_9.jpg,Plastic waste,train,train,train,test,train
+760,Plastic waste/Image_90.jpg,Plastic waste,train,test,train,train,train
+761,Plastic waste/Image_91.jpg,Plastic waste,train,train,train,train,test
+762,Plastic waste/Image_92.jpg,Plastic waste,train,test,train,train,train
+763,Plastic waste/Image_93.jpg,Plastic waste,train,train,train,train,test
+764,Plastic waste/Image_94.jpg,Plastic waste,train,test,train,train,train
+765,Plastic waste/Image_95.jpg,Plastic waste,val,val,val,train,test
+766,Plastic waste/Image_96.png,Plastic waste,train,train,train,test,train
+767,Plastic waste/Image_97.png,Plastic waste,train,test,train,train,train
+768,Plastic waste/Image_98.jpg,Plastic waste,val,train,test,train,train
+769,Plastic waste/Image_99.jpg,Plastic waste,test,val,val,val,val

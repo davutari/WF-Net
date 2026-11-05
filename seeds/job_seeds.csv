@@ -1,0 +1,171 @@
+run,split_seed,model,fold,job_seed
+wastesnap_seed42,42,VGG16,0,42000
+wastesnap_seed42,42,VGG16,1,42097
+wastesnap_seed42,42,VGG16,2,42194
+wastesnap_seed42,42,VGG16,3,42291
+wastesnap_seed42,42,VGG16,4,42388
+wastesnap_seed42,42,ResNet50,0,42020
+wastesnap_seed42,42,ResNet50,1,42117
+wastesnap_seed42,42,ResNet50,2,42214
+wastesnap_seed42,42,ResNet50,3,42311
+wastesnap_seed42,42,ResNet50,4,42408
+wastesnap_seed42,42,InceptionV3,0,42016
+wastesnap_seed42,42,InceptionV3,1,42113
+wastesnap_seed42,42,InceptionV3,2,42210
+wastesnap_seed42,42,InceptionV3,3,42307
+wastesnap_seed42,42,InceptionV3,4,42404
+wastesnap_seed42,42,Xception,0,42051
+wastesnap_seed42,42,Xception,1,42148
+wastesnap_seed42,42,Xception,2,42245
+wastesnap_seed42,42,Xception,3,42342
+wastesnap_seed42,42,Xception,4,42439
+wastesnap_seed42,42,DenseNet121,0,42020
+wastesnap_seed42,42,DenseNet121,1,42117
+wastesnap_seed42,42,DenseNet121,2,42214
+wastesnap_seed42,42,DenseNet121,3,42311
+wastesnap_seed42,42,DenseNet121,4,42408
+wastesnap_seed42,42,MobileNetV2,0,42021
+wastesnap_seed42,42,MobileNetV2,1,42118
+wastesnap_seed42,42,MobileNetV2,2,42215
+wastesnap_seed42,42,MobileNetV2,3,42312
+wastesnap_seed42,42,MobileNetV2,4,42409
+wastesnap_seed42,42,EfficientNetB0,0,42058
+wastesnap_seed42,42,EfficientNetB0,1,42155
+wastesnap_seed42,42,EfficientNetB0,2,42252
+wastesnap_seed42,42,EfficientNetB0,3,42349
+wastesnap_seed42,42,EfficientNetB0,4,42446
+wastesnap_seed42,42,InceptionResNetV2,0,42042
+wastesnap_seed42,42,InceptionResNetV2,1,42139
+wastesnap_seed42,42,InceptionResNetV2,2,42236
+wastesnap_seed42,42,InceptionResNetV2,3,42333
+wastesnap_seed42,42,InceptionResNetV2,4,42430
+wastesnap_seed42,42,ViT-B/16,0,42050
+wastesnap_seed42,42,ViT-B/16,1,42147
+wastesnap_seed42,42,ViT-B/16,2,42244
+wastesnap_seed42,42,ViT-B/16,3,42341
+wastesnap_seed42,42,ViT-B/16,4,42438
+wastesnap_seed42,42,Swin-T,0,42026
+wastesnap_seed42,42,Swin-T,1,42123
+wastesnap_seed42,42,Swin-T,2,42220
+wastesnap_seed42,42,Swin-T,3,42317
+wastesnap_seed42,42,Swin-T,4,42414
+wastesnap_seed42,42,Ablation: CNN-only,0,42003
+wastesnap_seed42,42,Ablation: CNN-only,1,42100
+wastesnap_seed42,42,Ablation: CNN-only,2,42197
+wastesnap_seed42,42,Ablation: CNN-only,3,42294
+wastesnap_seed42,42,Ablation: CNN-only,4,42391
+wastesnap_seed42,42,Ablation: Transformer-only,0,42047
+wastesnap_seed42,42,Ablation: Transformer-only,1,42144
+wastesnap_seed42,42,Ablation: Transformer-only,2,42241
+wastesnap_seed42,42,Ablation: Transformer-only,3,42338
+wastesnap_seed42,42,Ablation: Transformer-only,4,42435
+wastesnap_seed42,42,Ablation: Dual (concat),0,42087
+wastesnap_seed42,42,Ablation: Dual (concat),1,42184
+wastesnap_seed42,42,Ablation: Dual (concat),2,42281
+wastesnap_seed42,42,Ablation: Dual (concat),3,42378
+wastesnap_seed42,42,Ablation: Dual (concat),4,42475
+wastesnap_seed42,42,Ablation: Dual+CATF w/o attn,0,42061
+wastesnap_seed42,42,Ablation: Dual+CATF w/o attn,1,42158
+wastesnap_seed42,42,Ablation: Dual+CATF w/o attn,2,42255
+wastesnap_seed42,42,Ablation: Dual+CATF w/o attn,3,42352
+wastesnap_seed42,42,Ablation: Dual+CATF w/o attn,4,42449
+wastesnap_seed42,42,Ablation: WF-Net w/ CBAM,0,42044
+wastesnap_seed42,42,Ablation: WF-Net w/ CBAM,1,42141
+wastesnap_seed42,42,Ablation: WF-Net w/ CBAM,2,42238
+wastesnap_seed42,42,Ablation: WF-Net w/ CBAM,3,42335
+wastesnap_seed42,42,Ablation: WF-Net w/ CBAM,4,42432
+wastesnap_seed42,42,Ablation: WF-Net w/o self-distill,0,42038
+wastesnap_seed42,42,Ablation: WF-Net w/o self-distill,1,42135
+wastesnap_seed42,42,Ablation: WF-Net w/o self-distill,2,42232
+wastesnap_seed42,42,Ablation: WF-Net w/o self-distill,3,42329
+wastesnap_seed42,42,Ablation: WF-Net w/o self-distill,4,42426
+wastesnap_seed42,42,Ablation: WF-Net-Lite,0,42030
+wastesnap_seed42,42,Ablation: WF-Net-Lite,1,42127
+wastesnap_seed42,42,Ablation: WF-Net-Lite,2,42224
+wastesnap_seed42,42,Ablation: WF-Net-Lite,3,42321
+wastesnap_seed42,42,Ablation: WF-Net-Lite,4,42418
+wastesnap_seed42,42,WF-Net (Proposed),0,42055
+wastesnap_seed42,42,WF-Net (Proposed),1,42152
+wastesnap_seed42,42,WF-Net (Proposed),2,42249
+wastesnap_seed42,42,WF-Net (Proposed),3,42346
+wastesnap_seed42,42,WF-Net (Proposed),4,42443
+wastesnap_seed1337,1337,WF-Net (Proposed),0,1337055
+wastesnap_seed1337,1337,WF-Net (Proposed),1,1337152
+wastesnap_seed1337,1337,WF-Net (Proposed),2,1337249
+wastesnap_seed1337,1337,WF-Net (Proposed),3,1337346
+wastesnap_seed1337,1337,WF-Net (Proposed),4,1337443
+wastesnap_seed1337,1337,ViT-B/16,0,1337050
+wastesnap_seed1337,1337,ViT-B/16,1,1337147
+wastesnap_seed1337,1337,ViT-B/16,2,1337244
+wastesnap_seed1337,1337,ViT-B/16,3,1337341
+wastesnap_seed1337,1337,ViT-B/16,4,1337438
+wastesnap_seed1337,1337,Swin-T,0,1337026
+wastesnap_seed1337,1337,Swin-T,1,1337123
+wastesnap_seed1337,1337,Swin-T,2,1337220
+wastesnap_seed1337,1337,Swin-T,3,1337317
+wastesnap_seed1337,1337,Swin-T,4,1337414
+wastesnap_seed1337,1337,VGG16,0,1337000
+wastesnap_seed1337,1337,VGG16,1,1337097
+wastesnap_seed1337,1337,VGG16,2,1337194
+wastesnap_seed1337,1337,VGG16,3,1337291
+wastesnap_seed1337,1337,VGG16,4,1337388
+wastesnap_seed1337,1337,Ablation: WF-Net w/o self-distill,0,1337038
+wastesnap_seed1337,1337,Ablation: WF-Net w/o self-distill,1,1337135
+wastesnap_seed1337,1337,Ablation: WF-Net w/o self-distill,2,1337232
+wastesnap_seed1337,1337,Ablation: WF-Net w/o self-distill,3,1337329
+wastesnap_seed1337,1337,Ablation: WF-Net w/o self-distill,4,1337426
+wastesnap_seed2024,2024,WF-Net (Proposed),0,2024055
+wastesnap_seed2024,2024,WF-Net (Proposed),1,2024152
+wastesnap_seed2024,2024,WF-Net (Proposed),2,2024249
+wastesnap_seed2024,2024,WF-Net (Proposed),3,2024346
+wastesnap_seed2024,2024,WF-Net (Proposed),4,2024443
+wastesnap_seed2024,2024,ViT-B/16,0,2024050
+wastesnap_seed2024,2024,ViT-B/16,1,2024147
+wastesnap_seed2024,2024,ViT-B/16,2,2024244
+wastesnap_seed2024,2024,ViT-B/16,3,2024341
+wastesnap_seed2024,2024,ViT-B/16,4,2024438
+wastesnap_seed2024,2024,Swin-T,0,2024026
+wastesnap_seed2024,2024,Swin-T,1,2024123
+wastesnap_seed2024,2024,Swin-T,2,2024220
+wastesnap_seed2024,2024,Swin-T,3,2024317
+wastesnap_seed2024,2024,Swin-T,4,2024414
+wastesnap_seed2024,2024,VGG16,0,2024000
+wastesnap_seed2024,2024,VGG16,1,2024097
+wastesnap_seed2024,2024,VGG16,2,2024194
+wastesnap_seed2024,2024,VGG16,3,2024291
+wastesnap_seed2024,2024,VGG16,4,2024388
+wastesnap_seed2024,2024,Ablation: WF-Net w/o self-distill,0,2024038
+wastesnap_seed2024,2024,Ablation: WF-Net w/o self-distill,1,2024135
+wastesnap_seed2024,2024,Ablation: WF-Net w/o self-distill,2,2024232
+wastesnap_seed2024,2024,Ablation: WF-Net w/o self-distill,3,2024329
+wastesnap_seed2024,2024,Ablation: WF-Net w/o self-distill,4,2024426
+garbage12_seed42,42,WF-Net (Proposed),0,42055
+garbage12_seed42,42,WF-Net (Proposed),1,42152
+garbage12_seed42,42,WF-Net (Proposed),2,42249
+garbage12_seed42,42,ViT-B/16,0,42050
+garbage12_seed42,42,ViT-B/16,1,42147
+garbage12_seed42,42,ViT-B/16,2,42244
+garbage12_seed42,42,Swin-T,0,42026
+garbage12_seed42,42,Swin-T,1,42123
+garbage12_seed42,42,Swin-T,2,42220
+garbage12_seed42,42,Ablation: Dual (concat),0,42087
+garbage12_seed42,42,Ablation: Dual (concat),1,42184
+garbage12_seed42,42,Ablation: Dual (concat),2,42281
+followup_garbage12_a4000/default,42,WF-Net (Proposed),0,42055
+followup_garbage12_a4000/default40,42,WF-Net (Proposed),0,42055
+followup_garbage12_a4000/default40,42,WF-Net (Proposed),1,42152
+followup_garbage12_a4000/default40,42,WF-Net (Proposed),2,42249
+followup_garbage12_a4000/eased,42,WF-Net (Proposed),0,42055
+followup_garbage12_a4000/eased,42,WF-Net (Proposed),1,42152
+followup_garbage12_a4000/eased,42,WF-Net (Proposed),2,42249
+followup_garbage12_a4000/nomix,42,WF-Net (Proposed),0,42055
+followup_garbage12_a4000/nomix,42,WF-Net (Proposed),1,42152
+followup_garbage12_a4000/nomix,42,WF-Net (Proposed),2,42249
+followup_garbage12_a4000/nosd,42,WF-Net (Proposed),0,42055
+followup_garbage12_a4000/nosd,42,WF-Net (Proposed),1,42152
+followup_garbage12_a4000/nosd,42,WF-Net (Proposed),2,42249
+followup_lite_a4000/kd,42,Ablation: WF-Net-Lite,0,42030
+followup_lite_a4000/kd,42,Ablation: WF-Net-Lite,1,42127
+followup_lite_a4000/kd,42,Ablation: WF-Net-Lite,2,42224
+followup_lite_a4000/kd,42,Ablation: WF-Net-Lite,3,42321
+followup_lite_a4000/kd,42,Ablation: WF-Net-Lite,4,42418

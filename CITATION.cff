@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below. The paper is under review; the full reference will be added after publication."
+title: "WF-Net: code, data splits, seeds and per-image predictions"
+type: software
+version: "1.0"
+license: MIT
+repository-code: "https://github.com/davutari/WF-Net"
+authors:
+  - family-names: Burukanli
+    given-names: Mehmet
+  - family-names: Ari
+    given-names: Davut
+  - family-names: Karakus
+    given-names: Songul
+preferred-citation:
+  type: article
+  status: submitted
+  title: "WF-Net: A heterogeneous dual-branch deep network with cross-branch attention token fusion for waste image classification"
+  journal: "The Journal of Supercomputing"
+  year: 2026
+  authors:
+    - family-names: Burukanli
+      given-names: Mehmet
+    - family-names: Ari
+      given-names: Davut
+    - family-names: Karakus
+      given-names: Songul
